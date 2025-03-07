@@ -1,0 +1,6 @@
+import os
+
+
+LASTFM_API_KEY = "a5892acebc4d1b326fc23016fd45ddca"
+LASTFM_SECRET = "c44f8ac4d92a5c79344d5828efb91bcb"
+GEMINI_API_KEY = "AIzaSyD_hSkU6mWd6ANn3utOpK7JBaKYb5wDah8"
